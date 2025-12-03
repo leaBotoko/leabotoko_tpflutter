@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345851825256",
+    "project_id": "fluttertp-ef72e",
+    "storage_bucket": "fluttertp-ef72e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345851825256:android:7f47be5fa11b70033c7fdd",
+        "android_client_info": {
+          "package_name": "com.example.fluttertp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvQ0Ef4gMQ5jtdmJwbG9ZefVQafbMVIWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
